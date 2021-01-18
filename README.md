@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Kalil Teixeira Ventura Monteiro,
 
-Atualmente trabalho como analista de sistemas na [BRQ Digital Solutions](http://www.brq.com/).
+Currently, I'm working as a Software Developer in [BRQ Digital Solutions](http://www.brq.com/).
 
 **Social Media**
 
@@ -46,7 +46,3 @@ Atualmente trabalho como analista de sistemas na [BRQ Digital Solutions](http://
 ### **Activities**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kalilventura&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-- Desenvolvimento backend utilizando .Net Framework, .Net Core e Spring Boot.
-- Desenvolvimento frontend utilizando Angular.
-- Bancos de dados MySQL e SQL Server.
